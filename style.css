@@ -12,7 +12,7 @@
 
 .cabecalho{
     font-family: 'Kanit', sans-serif;
-    font-size: 1.2rem;
+    font-size: 0.8rem;
     margin-left: 700px;
     padding-top: 10px;
     border-bottom: 1.4px solid black;
@@ -75,6 +75,8 @@ img{
 
 aside{
     margin-left: 20px;
+    width: 45%;
+    padding: 10px;
     font-family: 'Diphylleia', serif;
     font-size: 1.4rem;
     border: 1px solid black;
@@ -96,7 +98,7 @@ aside{
 
 .nickolas{
     margin-bottom: 30px;
-    width: 1350px;
+    /* width: 1350px; */
 }
 
 main{
@@ -108,6 +110,7 @@ footer{
     font-family: 'Diphylleia', serif;
     font-weight: bolder;
     padding-top: 20px;
+    font-size: 1rem;
     height: 40px;
     width: 40%;
     margin-left: 30px;
@@ -117,7 +120,25 @@ footer{
 }
  .constante{
     font-weight: bolder;
+    white-space: normal;
+    font-size: 1.9rem;
  }
+
+ .com{
+    white-space: normal;
+    margin-left: 4px;
+    font-size: 1.9rem;
+}
+
+.fac{
+    white-space: normal;
+    font-size: 1.9rem;
+}
+
+.sou{
+    white-space: normal;
+    font-size: 1.9rem;
+}
 
 body{
     background-image: linear-gradient(to right, #96F7A8, #4CF56B, #3DC255);

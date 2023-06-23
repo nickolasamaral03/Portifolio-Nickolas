@@ -1,10 +1,12 @@
 @media screen and (max-width: 1200px){
     .cabecalho{
     margin: auto;
+    width: 35%;
     }
 
     .git{
         text-align: center;
+        font-size: 1.2rem;
     }
 
     .Inter{
@@ -41,6 +43,10 @@
 
     .mochila-image{
         width: 100%;
+    }
+
+    .acesse{
+        font-size: 1rem;
     }
         
 }

@@ -5,7 +5,7 @@
     }
 
     .cabecalho > a{
-        padding: 5px;
+        padding: 10px;
         margin-left: 50px;
     }
      
@@ -18,35 +18,71 @@
 }
 
     .position{
-       width: 18%;
-       margin-left: 100px;
+       width: 60%;
+       margin: auto;
+       margin-left: 80px;
+       margin-bottom: 5px;
        height: 150px;
+    }
+
+    .nickolas{
+        width: 100%;
+        
     }
 
     .foto{
         width: 0;
     }
 
-    .dev-part{
-        width: 11%;
-        font-size: 1.5rem;
-    }
-
+    
     footer{
-        font-size: 0.8rem;
+        font-size: 0.6rem;
+        margin-left: 2px;
+        width: 100%;
+    }
+    
+    .dev-part{
+        width: 28%;
+        font-size: 1.3rem;
     }
 
     .dev-web{
-        font-size: 2rem;
-        margin-left: 80px;
+        font-size: 1.8rem;
+        margin-left: 20px;
+        white-space: nowrap;
     }
 
     .p{
-        margin-left: 80px;
+        margin-left: 60px;
+        white-space: normal;
+        font-size: 1rem;
+        margin: 0;
+        padding: 0;
+    }
+
+    .com{
+        white-space: nowrap;
+        margin-left: 4px;
+        font-size: 1rem;
+    }
+
+    .fac{
+        white-space: nowrap;
+        font-size: 1rem;
+    }
+
+    .sou{
+        white-space: nowrap;
+        font-size: 1rem;
+    }
+
+    .constante{
+        white-space: nowrap;
+        font-size: 1.2rem;
     }
 
     aside{
-        width: 30%;
+        width: 90%;
         
     }
   }

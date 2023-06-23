@@ -1,8 +1,9 @@
 @media screen and (max-width: 600px){
     .cabecalho{
         margin: auto;
-        width: 26%;
+        width: 35%;
         margin-bottom:10px ;
+        
     }
 
     .sobre{
@@ -21,4 +22,5 @@
     .contato{
         margin-left: 9px;
     }
+
 }

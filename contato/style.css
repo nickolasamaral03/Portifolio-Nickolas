@@ -18,11 +18,11 @@ main{
 
 .cabecalho{
     font-family: 'Kanit', sans-serif;
-    margin-left: 900px;
+    margin-left: 990px;
     padding-top: 10px;
     justify-content: space-around;
     background-color: rgb(238, 227, 227);
-    width: 25%;
+    width: 20%;
     padding: 10px;
     padding-left: 30px;
     border-radius: 10px;
