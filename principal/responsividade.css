@@ -1,0 +1,52 @@
+@media screen and (max-width: 900px) {
+    .cabecalho{
+        margin: auto;
+        margin-bottom: 8px;
+    }
+
+    .cabecalho > a{
+        padding: 5px;
+        margin-left: 50px;
+    }
+     
+.name{
+    font-size: 2.8rem;
+}
+
+.name-second{
+    font-size: 2.5rem;
+}
+
+    .position{
+       width: 18%;
+       margin-left: 100px;
+       height: 150px;
+    }
+
+    .foto{
+        width: 0;
+    }
+
+    .dev-part{
+        width: 11%;
+        font-size: 1.5rem;
+    }
+
+    footer{
+        font-size: 0.8rem;
+    }
+
+    .dev-web{
+        font-size: 2rem;
+        margin-left: 80px;
+    }
+
+    .p{
+        margin-left: 80px;
+    }
+
+    aside{
+        width: 30%;
+        
+    }
+  }

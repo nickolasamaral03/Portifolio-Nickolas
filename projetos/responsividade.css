@@ -1,0 +1,47 @@
+@media screen and (max-width: 1200px){
+    .cabecalho{
+    margin: auto;
+    }
+
+    .git{
+        text-align: center;
+    }
+
+    .Inter{
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .inter-image{
+        width: 100%;
+    }
+
+    .robotrom{
+        width: 100%;
+        margin-top: 10px; 
+    }
+
+    .robotrom-image{
+        width: 100%;
+    }
+
+    .weather{
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .weather-image{
+        width: 100%;
+    }
+
+    .mochila{
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .mochila-image{
+        width: 100%;
+    }
+        
+}
+

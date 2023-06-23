@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Diphylleia&display=swap');
+
+body{
+    background-image: linear-gradient(to right, #96F7A8, #4CF56B, #3DC255);
+}
+
+h1{
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+.cabecalho{
+    font-family: 'Kanit', sans-serif;
+    font-size: 1.1rem;
+    margin-left: 950px;
+    padding-top: 10px;
+    justify-content: space-around;
+    background-color: rgb(238, 227, 227);
+    width: 25%;
+    padding: 10px;
+    padding-left: 30px;
+    border-radius: 10px;
+}
+
+a{
+    padding: 15px;
+    color: black;
+    font-size: 1.2rem;
+}
+
+.Inter{
+    border: 1px solid black;
+    background-color: rgb(234, 240, 229);
+    width: 70%;
+    margin: auto;
+    border-radius: 8px;
+    /* display: flex; */
+    font-family: 'Kanit', sans-serif;
+    margin-bottom: 10px;
+}
+
+p{
+    font-size: 1.4rem;
+    margin-top: 90px;
+}
+
+.inter-image{
+    height: 300px;
+    width: 500px;
+    margin-left: -15px;
+    margin-bottom: -5px;
+}
+
+
+.robotrom{
+    border: 1px solid black;
+    background-color: rgb(234, 240, 229);
+    /* display: flex; */
+    border-radius: 8px;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 10px;
+    font-family: 'Kanit', sans-serif;
+}
+
+.robotrom-image{
+    height: 300px;
+    width: 500px;
+    margin-left: -15px;
+    margin-bottom: -5px;
+}
+
+.weather{
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: rgb(234, 240, 229);
+    /* display: flex; */
+    width: 70%;
+    margin: auto;
+    margin-bottom: 10px;
+    font-family: 'Kanit', sans-serif;
+}
+
+.weather-image{
+    height: 300px;
+    width: 500px;
+    margin-left: -15px;
+    margin-bottom: -5px;
+}
+
+.mochila{
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: rgb(234, 240, 229);
+    width: 70%;
+    /* display: flex; */
+    margin: auto;
+    margin-bottom: 10px;
+    font-family: 'Kanit', sans-serif;
+}
+
+.mochila-image{
+    height: 300px;
+    width: 500px;
+    margin-left: -15px;
+    margin-bottom: -5px;
+}
+
+.git{
+    font-size: 1.5rem;
+    padding-bottom: 40px;
+    margin: 10px;
+    font-weight: bolder;
+    font-family: 'Kanit', sans-serif;
+}
+
+.git:hover{
+    color: #3DC255;
+}
+
+/* footer{
+    text-align: center;
+    margin-top: 25px;
+    background-color: #96F7A8;
+    width: 100%;
+} */
+
+.acesse{
+    text-decoration: none;
+    font-size: 1.4rem;
+    margin-top: 270px;
+    color: #363d37;
+}
+
+.acesse:hover{
+    color: #3DC255;
+}
+
+/* .descr{
+    border: 1px solid black;
+    height: 320px;
+    margin-right: 20px;
+    
+}
+
+.descr > h2{
+    text-align: center;
+}
+
+.descr > p{
+    padding: 5px;
+    font-size: 1rem;
+    padding-bottom: 10px;
+} */
+
+
+
+

@@ -1,0 +1,24 @@
+@media screen and (max-width: 600px){
+    .cabecalho{
+        margin: auto;
+        width: 26%;
+        margin-bottom:10px ;
+    }
+
+    .sobre{
+       margin: auto;
+       width: 70%;
+    }
+
+    .sobre1{
+        margin-left: 12px;
+    }
+
+    .projetos{
+        margin-right: 35px;
+    }
+
+    .contato{
+        margin-left: 9px;
+    }
+}

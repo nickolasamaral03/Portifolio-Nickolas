@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Diphylleia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap');
+
+body{
+    background-image: linear-gradient(to right, #96F7A8, #4CF56B, #3DC255);
+
+}
+
+main{
+    text-align: center;
+    display: block;
+    margin-top: 110px;
+    border: 1px solid black;
+    width: 80%;
+    margin-left: 130px;
+    font-family: 'Diphylleia', serif;
+}
+
+.cabecalho{
+    font-family: 'Kanit', sans-serif;
+    margin-left: 900px;
+    padding-top: 10px;
+    justify-content: space-around;
+    background-color: rgb(238, 227, 227);
+    width: 25%;
+    padding: 10px;
+    padding-left: 30px;
+    border-radius: 10px;
+}
+
+.sobre1{
+    margin-right: 25px;
+    font-weight: normal;
+    font-size: 1.1rem;
+    text-decoration: underline;
+}
+
+.contato{
+    margin-left: 25px;
+    font-size: 1.1rem;
+    text-decoration: underline;
+}
+
+.projetos{
+    margin-left: 10px;
+    font-size: 1.1rem;
+    text-decoration: underline;
+}
+
+button{
+    padding: 5px;
+    margin: 15px;
+    width: 50%;
+    height: 40px;
+    background-color: #b3e4bc;
+}
+
+h1{
+    text-decoration: underline;
+}
+
+a{
+    text-decoration: none;
+    font-size: 1.4rem;
+    color: black;
+}
+
+.icons-insta{
+    height: 23px;
+}
+
+.icons-link{
+    height: 23px;
+}
+
+.icons-gmail{
+    height: 23px;
+}
+
+.icons-git{
+    height: 23px;
+}
